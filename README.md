@@ -33,7 +33,7 @@ Please read the [exchange specific notes](docs/exchanges.md) to learn about even
 - [X] [HTX](https://www.htx.com/) (Former Huobi)
 - [X] [Kraken](https://kraken.com/)
 - [X] [OKX](https://okx.com/) (Former OKEX)
-- [ ] [potentially many others](https://github.com/ccxt/ccxt/). _(We cannot guarantee they will work)_
+- [ ] [other exchanges that support CCXT](https://github.com/ccxt/ccxt/). _(We do not guarantee they will work)_
 
 ### Supported Futures Exchanges (experimental)
 
